@@ -8,8 +8,8 @@ export default function Home() {
       <h1>Hello world!</h1>
       <button class={css({
         fontSize:'xx-large',
-        fontWeight:'bold',
-        bg:'gray',
+        bg:'green',
+        border:'1px solid black',
         _hover: {
           bg:'red',
         }
